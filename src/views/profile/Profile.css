@@ -1,0 +1,27 @@
+.cl-navbar {
+  display: none !important;
+}
+.cl-scrollBox {
+  width: 100%;
+}
+
+.cl-card {
+  box-shadow: none;
+  border-radius: 8px;
+  width: 100%;
+}
+
+.cl-internal-b3fm6y {
+  display: none !important;
+}
+
+.cl-rootBox {
+  width: 100%;
+}
+.cl-pageScrollBox {
+  padding-top: 24px;
+}
+
+.cl-headerTitle::before {
+  content: 'Profile ';
+}
